@@ -1,0 +1,14 @@
+<br/>
+<form action="../manage/상품결제/goods_payment.jsp" method="post">
+	<table>
+			<tr>
+				<td>상품번호</td>
+			</tr>
+			<tr>
+				<td>
+					<input id="goods_id" type="text" name="goods_id">
+				</td>
+				<input id="goods_payment_submit" type="submit" name="submit" value="결제">
+			</tr>
+	</table>
+</form>

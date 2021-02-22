@@ -1,0 +1,13 @@
+<br/>
+
+<table>
+		<tr>
+			<td>모든 거래 내역</td>
+		</tr>
+		<tr>
+			<input id="sales_history_submit" type="submit" name="submit" value="조회">
+		</tr>
+</table>
+<div id="all_sales">
+
+</div>

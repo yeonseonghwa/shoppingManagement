@@ -1,0 +1,19 @@
+<form action="../manage/상품정보등록/info_upload.jsp" method="post">
+<br/>
+	<table name="jin_goodstable">
+		<th>상품 소개 등록</th>
+			<tr>
+				<td>상품번호</td>
+				<td>상품소개</td>
+			</tr>
+			<tr>
+				<td>
+					<input type="text" name="goods_id" class="jin_goods">
+				</td>
+				<td>
+					<input type="text" name="goods_attr" class="jin_goods">
+				</td>
+				<input id="goods_attr_submit" type="submit" name="submit" value="등록">
+			</tr>
+	</table>
+</form>

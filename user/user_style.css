@@ -1,0 +1,102 @@
+@charset "utf-8";
+
+body
+{
+	background: #F6F6F6;
+	margin:0; 
+	padding:0;
+}
+header 
+{
+	background-color: powderblue; 
+	text-align: center; 
+	font-size: 30px;
+	overflow:hidden;
+}
+#menu 
+{
+	background-color: #dbdbdb;
+	border-style: outset; 
+	width: 300px;
+	top: 150px; 
+	font-size: 28px;
+}
+#menu_menu
+{
+	background-color: #c5ff68;
+}
+.menu_item 
+{
+	background-color: #c1fff8;
+	cursor : pointer;
+}
+
+#display 
+{
+	border-style: inset; 
+	width: 1423px; 
+	height: 750px; 
+	position:absolute; 
+	top: 98px; 
+	left: 308px;
+}
+
+table,tr,th,td 
+{  
+	border: 1px solid black; 
+	border-collapse: collapse; 
+	text-align: center; 
+	font-size: 25px;
+}
+
+
+/*form 
+{ border-style: inset;}*/
+
+
+table 
+{
+	border-left: 50px;
+}
+input
+{
+	line-height:35pt;
+	border:0pt;
+	width:200px;
+}
+#goods_search_name_submit
+{
+	position: fixed;  
+	top: 260px;
+}
+#goods_upload_submit
+{
+	position: fixed;  
+	top: 260px;
+}
+#evaluation_search
+{
+	position: fixed;  
+	top: 200px;
+	left:530px;
+}
+#evaluation_search_all
+{
+	position: fixed;  
+	top: 280px;
+	left:500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+<br/>
+<table>
+	<th>상품 정보 입력</th>
+	<tr>
+		<td>상품번호</td>
+	</tr>
+	<tr>
+		<td>
+			<input id="search_id_goods_id" type="text" name="goods_id" placeholder="예:1">
+		</td>
+		<input id="goods_search_id_submit" type="submit" name="submit" value="조회">
+	</tr>
+</table>
+
+<br/>
+<table>
+	<th>상품 정보 입력</th>
+	<tr>
+		<td>상품이름</td>
+	</tr>
+	<tr>
+		<td>
+			<input id="search_name_goods_name" type="text" name="goods_name" placeholder="예:후디티">
+		</td>
+		<input id="goods_search_name_submit" type="submit" name="submit" value="조회">
+	</tr>
+</table>
+
+<br/>
+<table>
+	<tr>
+		<td>
+			모든 상품 조회
+		</td>
+		<input id="search_all" type="submit" name="submit" value="전체조회">
+	</tr>
+</table>

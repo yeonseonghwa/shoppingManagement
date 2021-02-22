@@ -1,0 +1,31 @@
+<form action="../manage/상품등록/goods_upload.jsp" method="post">
+<br/>
+	<table name="jin_goodstable">
+		<th>상품 정보 입력</th>
+			<tr>
+				<td>상품번호</td>
+				<td>상품이름</td>
+				<td>사이즈</td>
+				<td>색상</td>
+				<td>가격</td>
+			</tr>
+			<tr>
+				<td>
+					<input type="text" name="goods_id" class="jin_goods" placeholder="예:1">
+				</td>
+				<td>
+					<input type="text" name="goods_name" class="jin_goods" placeholder="예:후디티">
+				</td>
+				<td>
+					<input type="text" name="goods_size" class="jin_goods" placeholder="예:110">
+				</td>
+				<td>
+					<input type="text" name="goods_color" class="jin_goods" placeholder="예:불루">
+				</td>
+				<td>
+					<input type="text" name="goods_price" class="jin_goods" placeholder="예:45000">
+				</td>
+				<input id="goods_upload_submit" type="submit" name="submit" value="등록">
+			</tr>
+	</table>
+</form>

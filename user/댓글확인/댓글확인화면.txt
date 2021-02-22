@@ -1,0 +1,20 @@
+<br/>
+<table>
+	<th>댓글 확인</th>
+		<tr>
+			<td>상품명</td>
+		</tr>
+		<tr>
+			<td>
+				<input id="evaluation_name" type="text" name="name" placeholder="예:후디티">
+			</td>
+			<input id="evaluation_search" type="submit" name="submit" value="조회">
+		</tr>
+</table>
+<br/><br/>
+<table>
+	<th>전체 댓글 확인</th>
+		<tr>
+			<input id="evaluation_search_all" type="submit" name="submit" value="전체 조회">
+		</tr>
+</table>

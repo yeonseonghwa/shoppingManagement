@@ -1,0 +1,15 @@
+<form action="../manage/상품삭제/goods_delete.jsp" method="post">
+<br/>
+	<table class="jin_delete_table">
+		<th class="jin_delete_th">상품 정보 입력</th>
+		<tr class="jin_delete_tr">
+			<td class="jin_delete_td">상품번호</td>
+		</tr>
+		<tr class="jin_delete_tr">
+			<td class="jin_delete_td">
+				<input type="text" name="goods_id" placeholder="예:1">
+			</td>
+			<input class="jin_delete_td" id="goods_delete_submit" type="submit" name="submit" value="삭제">
+		</tr>
+	</table>
+</form>

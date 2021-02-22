@@ -1,0 +1,144 @@
+@charset "utf-8";
+
+body
+{
+	background: #F6F6F6;
+	margin:0; 
+	padding:0;
+}
+header 
+{
+	background-color: powderblue; 
+	text-align: center; 
+	font-size: 30px;
+	overflow:hidden;
+}
+#menu 
+{
+	background-color: #dbdbdb;
+	border-style: outset; 
+	width: 300px;
+	top: 150px; 
+	font-size: 28px;
+}
+#menu_menu
+{
+	background-color: #c5ff68;
+}
+.menu_item 
+{
+	background-color: #c1fff8;
+	cursor : pointer;
+}
+
+#display 
+{
+	border-style: inset; 
+	width: 1423px; 
+	height: 750px; 
+	position:absolute; 
+	top: 98px; 
+	left: 308px;
+}
+
+table,tr,th,td 
+{  
+	border: 1px solid black; 
+	border-collapse: collapse; 
+	font-size: 30px;
+}
+
+/*form { border-style: inset;}*/
+
+table 
+{
+	border-left: 50px;
+}
+td
+{
+	vertical-align: middle;
+    text-align: center;  
+}
+.jin_goodstable
+{
+	left: 8px;
+}
+
+
+#goods_upload_submit 
+{
+	position: fixed;  
+	top: 280px;
+}
+
+input
+{
+	line-height:35pt;
+	border:0pt;
+	width:200px;
+}
+.jin_goods
+{
+	width:100%;
+}
+#goods_delete_submit
+{
+	position: fixed;  
+	top: 280px;
+}
+#goods_payment_submit
+{
+	position: fixed;  
+	top: 230px;
+}
+#sales_history_submit
+{
+	position: fixed;  
+	left: 530px;
+}
+#goods_search_id_submit
+{
+	position: fixed;  
+	top: 220px;
+	left:530px;
+}
+#goods_search_name_submit
+{
+	position: fixed;  
+	top: 380px;
+	left:530px;
+}
+#search_all
+{
+	position: fixed;  
+	top: 450px;
+	left:530px;
+}
+#posts
+{
+	width:100%;
+}
+#posts_upload
+{
+	position: fixed;  
+	left: 630px;
+}
+#all_posts_view
+{
+	position: fixed;  
+	left: 480px;
+}
+#goods_attr_submit
+{
+	position: fixed;  
+	top: 210px;
+	left:680px;
+}
+
+
+
+
+
+
+
+

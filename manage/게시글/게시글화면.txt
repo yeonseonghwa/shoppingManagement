@@ -1,0 +1,23 @@
+<br/>
+<form action="../manage/게시글/notice_board_upload.jsp" method="post">
+	<table>
+		<th>게시글을 입력하세요</th>
+		<tr>
+			<td>
+				<input id="posts" type="text" name="posts">
+			</td>
+			<input id="posts_upload" type="submit" name="submit" value="게시">
+		</tr>
+	</table>
+</form>
+<br/>
+<br/>
+<table>
+		<th>모든 게시글</th>
+		<tr>
+			<input id="all_posts_view" type="submit" name="submit" value="조회">
+		</tr>
+</table>
+<div id="all_posts">
+
+</div>
