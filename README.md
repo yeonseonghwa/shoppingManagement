@@ -1,5 +1,12 @@
 # shoppingManagement
 의류 등록, 결제, 재고관리 및 고객과 간단한 커뮤니티를 할 수 있는 상품관리 시스템
+*Edit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;eclipse*   
+*Server&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;apache Tomcat*   
+*DB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;MySQL*   
+*front-end&nbsp;:&nbsp;HTML,CSS,JavaScript*   
+*back-end&nbsp;&nbsp;:&nbsp;JSP*   
+*ajax를 이용한 화면 일부 갱신*   
+***
 
 *folder manage : 관리자 기능*
 
